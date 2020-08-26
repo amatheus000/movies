@@ -1,8 +1,8 @@
 {
-  "name": "react_parcel",
-  "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT",
+  "name": "y",
+  "version": "y",
+  "main": "y",
+  "license": "y",
   "dependencies": {
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
@@ -13,5 +13,11 @@
   "scripts": {
     "start": "parcel index.html"
   },
-  "browserslist": [ ">= 2%" ]
+  "browserslist": [
+    ">= 2%"
+  ],
+  "description": "y",
+  "repository": "y",
+  "author": "y",
+  "private": true
 }
