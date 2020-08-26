@@ -12,5 +12,6 @@
   },
   "scripts": {
     "start": "parcel index.html"
-  }
+  },
+  "browserslist": [ ">= 2%" ]
 }
